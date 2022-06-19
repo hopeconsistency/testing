@@ -8,6 +8,8 @@ struct node
     node *right;
 };
 
+//hello
+
 node *newNode(int data)
 {
     node *root = new node;
