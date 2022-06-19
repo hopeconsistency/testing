@@ -1,0 +1,31 @@
+arrays:
+1.Reverse the arrays
+2.Find minimum number of merge operations to make an array palindrome
+3.Given an array of size n finds all the elements that appear more than n/k times 
+4.find common elements in the 3 sorted arrays 
+5.find if there is an subarray with sum equal to zero
+6.Print all pairs with given sum
+7.Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo
+8.Minimum swaps required bring elements less equal K together
+9.Three way partitioning of an array around a given value
+10.Min number of swaps needed for bracket balancing
+
+
+linkedlist:
+1-1=>Reverse a linkedlist iterativerly 
+1-2=>Reverse a linkedlist recursively 
+2.Find create cycle, find cycle  and remove cycle in linkedlist
+3.Find the middle element of the linkedlist
+
+Binary tree
+1.DFS(preorder,postorder,inoder) in BT
+2.level order traversal in BT
+3.Height of tree
+
+Binary search tree:
+1.DFS(preorder,postorder,inoder) in BST
+2.Find min and max element in BST
+3.Search in BST
+
+Sorting
+1.Bubble sort 
